@@ -598,3 +598,10 @@ nav ul li a:hover{
     width: 20px;
     padding: 8px 5px;
 }
+#credit {
+    text-align: center;
+    margin-top: 20px;
+    letter-spacing: 3px;
+    background: cornsilk;
+    padding: 3px 0px;
+}
