@@ -1,0 +1,190 @@
+@media only screen and (max-width: 1000px) {
+  
+    *{
+        font-size-adjust: 10%;
+    }
+
+
+    .container{
+        margin: 0 40px;
+    }
+
+    .rahimHeader{
+        background-image: none;
+    }
+
+    .headerTitle , .headerArticle{
+        max-width: 100%;
+    }
+
+    .rahimButton {
+        margin: 20px 0px;
+    }
+
+    .boxLine .box{
+        margin-bottom: 5px;
+    }
+    
+    .boxLine .line1{
+        margin-bottom: 5px;
+    }
+
+    .rahimButton button {
+        padding: 12px 25px;
+    }
+
+    h2{
+        font-size: 30px;
+    }
+
+
+    .logo {
+        padding-bottom: 30px;
+    }
+
+    #menuImg img {
+        max-width: 40px;
+    }
+
+
+    #menuImg {
+        margin: 7% 8%;
+    }
+
+    .leftSection{
+        flex-basis: 100%;
+    }
+
+    .rightSection{
+        flex-basis: 100%;
+        margin-left: 35px;
+    }
+
+    .boxLineAbout {
+        padding-bottom: 40px;
+    }
+
+    #italicH2 {
+        padding-left: 2px;
+        font-size: 24px;
+    }
+
+    .feature{
+        flex-basis: 100%;
+        padding-bottom: 20px;
+        }
+
+        .feature img {
+            max-width: 130px;
+        }
+
+        .leftCourse{
+            flex-basis: 100%;
+            order: 2;
+            margin-top: 30px;
+        }
+
+        .rightCourse{
+            flex-basis: 100%;
+            order: 1;
+        }
+
+        .rahimCourse {
+            margin-top: 80px;
+        }
+
+        .leftLearning{
+            flex-basis: 100%;
+        }
+
+        .rightLearning{
+            flex-basis: 100%;
+        }
+
+        .rahimCourse #courseH2, #courseH3 {
+            padding-right: 0;
+        }
+
+        .rahimLearning {
+            margin-top: 80px;
+        }
+
+        .rightLearning {
+            margin-top: 30px;
+            margin-left: 35px;
+        }
+
+        .leftForm{
+            flex-basis: 100%;
+            max-width: 100%;
+            order: 2;
+            margin-top: 30px;
+        }
+        
+        .rightForm{
+            flex-basis: 100%;
+            text-align: center;
+            margin-top: 80px;
+        }
+
+        .formBtn .rahimButton {
+            width: auto;
+        }
+
+
+        .leftFooter {
+            flex-basis: 100%;
+        }
+
+        .rightFooter {
+            flex-basis: 100%;
+        }
+
+        .singaleFooter{
+            flex-basis: 50%;
+        }
+
+        .copyright{
+            flex-basis: 50%;
+        }
+
+        .footerLogo{
+            flex-basis: 50%;
+        }
+
+        .copyright {
+            margin-top: 102px;
+            align-self: center;
+        }
+
+        .footerLogo {
+            margin-top: 20px;
+        }
+
+        #social li img {
+            width: 16px;
+        }
+        
+
+        
+
+}
+
+
+
+
+
+@media only screen and (max-width: 1000px) and (min-width: 700px) {
+  
+    .rahimFooter .container {
+        flex-wrap: unset ;
+    }
+}
+
+
+@media only screen and (max-width: 1304px) and (min-width: 1001px) {
+  
+    .formBtn .rahimButton button{
+         padding: 10px 0px;
+}
+}
